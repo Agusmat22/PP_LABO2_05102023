@@ -1,0 +1,17 @@
+C:\Users\Lisandro\Desktop\PROGRAMACION-2\Modelos Primer Parcial\Modelo_dos\CalculadoraDeNuevo\CalculadoraDeNuevo\bin\Debug\net6.0-windows\CalculadoraDeNuevo.exe
+C:\Users\Lisandro\Desktop\PROGRAMACION-2\Modelos Primer Parcial\Modelo_dos\CalculadoraDeNuevo\CalculadoraDeNuevo\bin\Debug\net6.0-windows\CalculadoraDeNuevo.deps.json
+C:\Users\Lisandro\Desktop\PROGRAMACION-2\Modelos Primer Parcial\Modelo_dos\CalculadoraDeNuevo\CalculadoraDeNuevo\bin\Debug\net6.0-windows\CalculadoraDeNuevo.runtimeconfig.json
+C:\Users\Lisandro\Desktop\PROGRAMACION-2\Modelos Primer Parcial\Modelo_dos\CalculadoraDeNuevo\CalculadoraDeNuevo\bin\Debug\net6.0-windows\CalculadoraDeNuevo.dll
+C:\Users\Lisandro\Desktop\PROGRAMACION-2\Modelos Primer Parcial\Modelo_dos\CalculadoraDeNuevo\CalculadoraDeNuevo\bin\Debug\net6.0-windows\CalculadoraDeNuevo.pdb
+C:\Users\Lisandro\Desktop\PROGRAMACION-2\Modelos Primer Parcial\Modelo_dos\CalculadoraDeNuevo\CalculadoraDeNuevo\obj\Debug\net6.0-windows\CalculadoraDeNuevo.csproj.AssemblyReference.cache
+C:\Users\Lisandro\Desktop\PROGRAMACION-2\Modelos Primer Parcial\Modelo_dos\CalculadoraDeNuevo\CalculadoraDeNuevo\obj\Debug\net6.0-windows\CalculadoraDeNuevo.Form1.resources
+C:\Users\Lisandro\Desktop\PROGRAMACION-2\Modelos Primer Parcial\Modelo_dos\CalculadoraDeNuevo\CalculadoraDeNuevo\obj\Debug\net6.0-windows\CalculadoraDeNuevo.csproj.GenerateResource.cache
+C:\Users\Lisandro\Desktop\PROGRAMACION-2\Modelos Primer Parcial\Modelo_dos\CalculadoraDeNuevo\CalculadoraDeNuevo\obj\Debug\net6.0-windows\CalculadoraDeNuevo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lisandro\Desktop\PROGRAMACION-2\Modelos Primer Parcial\Modelo_dos\CalculadoraDeNuevo\CalculadoraDeNuevo\obj\Debug\net6.0-windows\CalculadoraDeNuevo.AssemblyInfoInputs.cache
+C:\Users\Lisandro\Desktop\PROGRAMACION-2\Modelos Primer Parcial\Modelo_dos\CalculadoraDeNuevo\CalculadoraDeNuevo\obj\Debug\net6.0-windows\CalculadoraDeNuevo.AssemblyInfo.cs
+C:\Users\Lisandro\Desktop\PROGRAMACION-2\Modelos Primer Parcial\Modelo_dos\CalculadoraDeNuevo\CalculadoraDeNuevo\obj\Debug\net6.0-windows\CalculadoraDeNuevo.csproj.CoreCompileInputs.cache
+C:\Users\Lisandro\Desktop\PROGRAMACION-2\Modelos Primer Parcial\Modelo_dos\CalculadoraDeNuevo\CalculadoraDeNuevo\obj\Debug\net6.0-windows\CalculadoraDeNuevo.dll
+C:\Users\Lisandro\Desktop\PROGRAMACION-2\Modelos Primer Parcial\Modelo_dos\CalculadoraDeNuevo\CalculadoraDeNuevo\obj\Debug\net6.0-windows\refint\CalculadoraDeNuevo.dll
+C:\Users\Lisandro\Desktop\PROGRAMACION-2\Modelos Primer Parcial\Modelo_dos\CalculadoraDeNuevo\CalculadoraDeNuevo\obj\Debug\net6.0-windows\CalculadoraDeNuevo.pdb
+C:\Users\Lisandro\Desktop\PROGRAMACION-2\Modelos Primer Parcial\Modelo_dos\CalculadoraDeNuevo\CalculadoraDeNuevo\obj\Debug\net6.0-windows\CalculadoraDeNuevo.genruntimeconfig.cache
+C:\Users\Lisandro\Desktop\PROGRAMACION-2\Modelos Primer Parcial\Modelo_dos\CalculadoraDeNuevo\CalculadoraDeNuevo\obj\Debug\net6.0-windows\ref\CalculadoraDeNuevo.dll
