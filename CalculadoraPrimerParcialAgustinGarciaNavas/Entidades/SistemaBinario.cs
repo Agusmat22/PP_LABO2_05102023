@@ -63,7 +63,7 @@ namespace Entidades
         {
             double numeroDecimal = 0;
 
-            if (string.IsNullOrEmpty(SistemaBinario.msgError))
+            if (string.IsNullOrEmpty(SistemaBinario.msgError) && this.Valor != null)
             {
                 int cantidadCaracteres = this.Valor.Length - 1;
                 int digito; //sera el caracter 'char' luego ser parseado

@@ -42,8 +42,9 @@ namespace CalculadoraDeNuevo
 
         //METODOS CREADOS
 
-        private Numeracion GetOperador(string valor)
+        private Numeracion GetOperador(string value)
         {
+            /*
             Numeracion operador;
 
             if (Calculadora.Sistema == ESistema.Decimal)
@@ -56,7 +57,13 @@ namespace CalculadoraDeNuevo
 
             }
 
-            return operador;
+            return operador;*/
+
+            if (Calculadora.Sistema == ESistema.Binario) 
+            { 
+                return new SistemaBinario(value); 
+            }
+            return new SistemaDecimal(value);
         }
 
         private void MostrarHistorial()
