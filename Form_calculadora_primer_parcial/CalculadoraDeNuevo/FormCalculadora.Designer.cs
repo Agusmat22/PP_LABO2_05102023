@@ -38,7 +38,7 @@
             btnOperar = new Button();
             btnCerrar = new Button();
             btnLimpiar = new Button();
-            listBox1 = new ListBox();
+            lstHistorial = new ListBox();
             lblHistorial = new Label();
             lblPrimerOperador = new Label();
             lblSegundoOperador = new Label();
@@ -65,7 +65,7 @@
             grpSistema.Size = new Size(188, 67);
             grpSistema.TabIndex = 1;
             grpSistema.TabStop = false;
-            grpSistema.Text = "Representar resultado en:";
+            grpSistema.Text = "Operar en:";
             // 
             // rdbBinario
             // 
@@ -77,6 +77,7 @@
             rdbBinario.TabStop = true;
             rdbBinario.Text = "Binario";
             rdbBinario.UseVisualStyleBackColor = true;
+            rdbBinario.CheckedChanged += rdbBinario_CheckedChanged;
             // 
             // rdbDecimal
             // 
@@ -88,6 +89,7 @@
             rdbDecimal.TabStop = true;
             rdbDecimal.Text = "Decimal";
             rdbDecimal.UseVisualStyleBackColor = true;
+            rdbDecimal.CheckedChanged += rdbDecimal_CheckedChanged;
             // 
             // txtPrimerOperando
             // 
@@ -124,6 +126,7 @@
             btnOperar.TabIndex = 5;
             btnOperar.Text = "Operar";
             btnOperar.UseVisualStyleBackColor = true;
+            btnOperar.Click += btnOperar_Click;
             // 
             // btnCerrar
             // 
@@ -147,14 +150,14 @@
             btnLimpiar.UseVisualStyleBackColor = true;
             btnLimpiar.Click += btnLimpiar_Click;
             // 
-            // listBox1
+            // lstHistorial
             // 
-            listBox1.FormattingEnabled = true;
-            listBox1.ItemHeight = 15;
-            listBox1.Location = new Point(590, 69);
-            listBox1.Name = "listBox1";
-            listBox1.Size = new Size(386, 304);
-            listBox1.TabIndex = 8;
+            lstHistorial.FormattingEnabled = true;
+            lstHistorial.ItemHeight = 15;
+            lstHistorial.Location = new Point(590, 69);
+            lstHistorial.Name = "lstHistorial";
+            lstHistorial.Size = new Size(386, 304);
+            lstHistorial.TabIndex = 8;
             // 
             // lblHistorial
             // 
@@ -205,7 +208,7 @@
             Controls.Add(lblSegundoOperador);
             Controls.Add(lblPrimerOperador);
             Controls.Add(lblHistorial);
-            Controls.Add(listBox1);
+            Controls.Add(lstHistorial);
             Controls.Add(btnLimpiar);
             Controls.Add(btnCerrar);
             Controls.Add(btnOperar);
@@ -222,6 +225,7 @@
             StartPosition = FormStartPosition.CenterScreen;
             Text = "Calculadora Primer Parcial: Agustin Matias Garcia Navas";
             FormClosing += Form1_FormClosing;
+            Load += FormCalculadora_Load;
             grpSistema.ResumeLayout(false);
             grpSistema.PerformLayout();
             ResumeLayout(false);
@@ -240,7 +244,7 @@
         private RadioButton rdbDecimal;
         private Button btnCerrar;
         private Button btnLimpiar;
-        private ListBox listBox1;
+        private ListBox lstHistorial;
         private Label lblHistorial;
         private Label lblPrimerOperador;
         private Label lblSegundoOperador;
