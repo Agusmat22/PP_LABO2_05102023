@@ -29,7 +29,8 @@ namespace Entidades
 
         public string Valor
         {
-            get { return valor; }
+            get 
+            { return valor; }
         }
 
         //propieda abstracta
