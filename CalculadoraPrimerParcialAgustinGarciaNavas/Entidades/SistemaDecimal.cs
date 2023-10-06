@@ -71,7 +71,7 @@ namespace Entidades
         {
             string numeroBinario = "";
             //valido que sea numerico y que sea mayor a 0 ya que binarios negativos no se puede
-            if (this.ValorNumerico > 0)
+            if (this.ValorNumerico >= 0)
             {
                 int divisor = 2;
                 double resto;
